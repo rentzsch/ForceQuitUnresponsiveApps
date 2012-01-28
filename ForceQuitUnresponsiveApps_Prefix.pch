@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ForceQuitUnresponsiveApps' target in the 'ForceQuitUnresponsiveApps' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
